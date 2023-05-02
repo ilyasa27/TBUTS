@@ -57,7 +57,7 @@ List<News> hotNews = [
   
   News(
     id: 7,
-    title: "Ef Ef",
+    title: "FF",
     description:
         "Garena Free Fire atau biasa disebut Free Fire (sering disingkat FF) adalah permainan battle royale yang dikembangkan oleh 111 Dots Studio dan diterbitkan oleh Garena untuk Android dan iOS. Permainan ini merupakan permainan piranti genggam yang paling banyak diunduh secara global pada tahun 2019. Karena popularitasnya, permainan ini menerima penghargaan untuk Best Popular Vote Game oleh Google Play Store pada tahun 2019. Pada Mei 2020, Garena Free Fire telah mencetak rekor dengan lebih dari 80 juta pengguna aktif harian di seluruh dunia. Pada November 2019, Garena Free Fire telah mendapat lebih dari US 1 miliar di seluruh dunia.",
     image:
